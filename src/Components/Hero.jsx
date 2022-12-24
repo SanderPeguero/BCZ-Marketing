@@ -37,9 +37,7 @@ function Hero() {
                 <p 
                     className={`${styles.paragraph} max-w-[470px] mt-5`}
                 >
-                    Stop wasting time and money on faulty and ineffective ad campaigns.
-                    <br />
-                    It's time to make your ad-budget count, scale your business and blow up your sales.
+                    Stop wasting time and money on faulty and ineffective ad campaigns. It's time to make your ad-budget count, scale your business and blow up your sales.
 
                 </p>
             </div>
