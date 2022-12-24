@@ -43,7 +43,7 @@ function Hero() {
             </div>
 
             <div 
-                className={`ss:hidden ${styles.flexCenter}`}
+                className={`ss:hidden ${styles.flexCenter} mt-[230px]`}
             >
                 <GetStarted/>
             </div>
