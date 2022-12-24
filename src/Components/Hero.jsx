@@ -29,11 +29,11 @@ function Hero() {
                     </div>
                 </div>
 
-                <h1 
+                {/* <h1 
                     className='font-poppins font-semibold ss:text-[68px] text[52px] text-white ss:leading[100px] leading-[75px] w-full'
                 >
                     Upgrade for your Business.
-                </h1>
+                </h1> */}
                 <p 
                     className={`${styles.paragraph} max-w-[470px] mt-5`}
                 >
