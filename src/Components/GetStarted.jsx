@@ -30,7 +30,7 @@ function GetStarted() {
                 className='font-poppins font-medium text-[18px] leading-[23px]'
             >
                 <span 
-                    className='text-gradient'
+                    className='text-white'
                 >
                     Started
                 </span>
