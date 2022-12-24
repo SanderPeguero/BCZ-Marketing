@@ -12,7 +12,7 @@ function Navbar() {
             className='w-full flex py-6 justify-between items-center navbar'
         >
             <img src={logo} alt="BCZ Logo" 
-                className='w-[204px] h-[115px]'
+                className='w-[155px] h-[115px]'
             />
 
             <ul 
