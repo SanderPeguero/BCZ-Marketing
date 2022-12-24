@@ -32,12 +32,15 @@ function Hero() {
                 <h1 
                     className='font-poppins font-semibold ss:text-[68px] text[52px] text-white ss:leading[100px] leading-[75px] w-full'
                 >
-                    Upgrade for your Real Estate Business.
+                    Upgrade for your Business.
                 </h1>
                 <p 
                     className={`${styles.paragraph} max-w-[470px] mt-5`}
                 >
-                    We are a marketing agency specialized in Real Estate offering a full service to make sure you and your business grow together.
+                    Stop wasting time and money on faulty and ineffective ad campaigns.
+                    <br />
+                    It's time to make your ad-budget count, scale your business and blow up your sales.
+
                 </p>
             </div>
 
