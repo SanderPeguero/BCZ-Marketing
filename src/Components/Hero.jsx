@@ -16,10 +16,10 @@ function Hero() {
                     <h1 
                         className='flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]'
                     >
-                        The Next <span 
+                        We Help your Business Produce Spine-Chilling ROI Via <span 
                             className='text-gradient'
                             > 
-                        Marketing 
+                        Paid Advertising
                         </span>{" "}
                     </h1>
                     <div 
