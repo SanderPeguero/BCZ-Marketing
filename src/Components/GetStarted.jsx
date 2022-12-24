@@ -19,7 +19,7 @@ function GetStarted() {
                     <span 
                         className='text-primary'
                     >
-                        Book a Call
+                        Speek to Our Team Today
                     </span>
                 </p>
                 {/* <img src={arrowUp} alt="arrow" 
