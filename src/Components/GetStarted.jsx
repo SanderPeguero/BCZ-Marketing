@@ -17,7 +17,7 @@ function GetStarted() {
                     className='font-poppins font-medium text-[18px] leading-[23px] mr-2'
                 >
                     <span 
-                        className='bg-primary'
+                        className='text-primary'
                     >
                         Get
                     </span>
@@ -30,7 +30,7 @@ function GetStarted() {
                 className='font-poppins font-medium text-[18px] leading-[23px]'
             >
                 <span 
-                    className='bg-primary'
+                    className='text-primary'
                 >
                     Started
                 </span>
