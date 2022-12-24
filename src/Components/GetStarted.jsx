@@ -22,9 +22,9 @@ function GetStarted() {
                         Get
                     </span>
                 </p>
-                <img src={arrowUp} alt="arrow" 
+                {/* <img src={arrowUp} alt="arrow" 
                     className='w-[23px] h-[23px] object-contain'
-                />
+                /> */}
             </div>
             <p 
                 className='font-poppins font-medium text-[18px] leading-[23px]'
