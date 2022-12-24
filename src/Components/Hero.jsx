@@ -14,7 +14,7 @@ function Hero() {
                     className='flex flex-row justify-between items-center w-full'
                 >
                     <h1 
-                        className='flex-1 font-poppins font-semibold ss:text-[72px] text-[37px] text-white ss:leading-[56.8px] leading-[75px]'
+                        className='flex-1 font-poppins font-semibold ss:text-[72px] text-[37px] text-white ss:leading-[76.8px] leading-[75px]'
                     >
                         We Help your Business Produce <br/> Spine-Chilling ROI Via <span 
                             className='text-gradient'
